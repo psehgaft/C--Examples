@@ -1,0 +1,5 @@
+C:\Documents and Settings\Curso\Mis documentos\PrimerAplicacionConsolaSolucion\MiLibreria\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Curso\Mis documentos\PrimerAplicacionConsolaSolucion\MiLibreria\obj\Debug\MiLibreria.dll
+C:\Documents and Settings\Curso\Mis documentos\PrimerAplicacionConsolaSolucion\MiLibreria\bin\Debug\MiLibreria.dll
+C:\Documents and Settings\Curso\Mis documentos\PrimerAplicacionConsolaSolucion\MiLibreria\bin\Debug\MiLibreria.pdb
+C:\Documents and Settings\Curso\Mis documentos\PrimerAplicacionConsolaSolucion\MiLibreria\obj\Debug\MiLibreria.pdb

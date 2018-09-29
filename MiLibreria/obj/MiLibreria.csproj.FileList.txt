@@ -1,0 +1,5 @@
+bin\Debug\MiLibreria.dll
+bin\Debug\MiLibreria.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MiLibreria.dll
+obj\Debug\MiLibreria.pdb
