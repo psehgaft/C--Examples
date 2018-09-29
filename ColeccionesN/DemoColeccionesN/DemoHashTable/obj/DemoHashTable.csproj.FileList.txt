@@ -1,0 +1,5 @@
+bin\Debug\DemoHashTable.exe
+bin\Debug\DemoHashTable.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoHashTable.exe
+obj\Debug\DemoHashTable.pdb

@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoLinkedListGrafico.Form1.resources
+obj\Debug\DemoLinkedListGrafico.Properties.Resources.resources
+obj\Debug\DemoLinkedListGrafico.csproj.GenerateResource.Cache
+bin\Debug\DemoLinkedListGrafico.exe
+bin\Debug\DemoLinkedListGrafico.pdb
+obj\Debug\DemoLinkedListGrafico.exe
+obj\Debug\DemoLinkedListGrafico.pdb

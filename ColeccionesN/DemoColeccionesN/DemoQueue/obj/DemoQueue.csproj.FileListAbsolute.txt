@@ -1,0 +1,5 @@
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoQueue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoQueue\bin\Debug\DemoQueue.exe
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoQueue\bin\Debug\DemoQueue.pdb
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoQueue\obj\Debug\DemoQueue.exe
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoQueue\obj\Debug\DemoQueue.pdb

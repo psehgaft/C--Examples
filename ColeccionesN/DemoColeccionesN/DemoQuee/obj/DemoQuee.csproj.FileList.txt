@@ -1,0 +1,5 @@
+bin\Debug\DemoQuee.exe
+bin\Debug\DemoQuee.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoQuee.exe
+obj\Debug\DemoQuee.pdb

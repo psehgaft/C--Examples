@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Banco_KJC\Banco_KJC\bin\Debug\Banco_KJC.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Banco_KJC\Banco_KJC\bin\Debug\Banco_KJC.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Banco_KJC\Banco_KJC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\A.Arriaga_Banco_KJC\Banco_KJC\bin\Debug\Banco_KJC.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2005\Projects\A.Arriaga_Banco_KJC\Banco_KJC\bin\Debug\Banco_KJC.pdb
+C:\Documents and Settings\continua19\Mis documentos\Heber\Clase-02-09-2009\A.Arriaga_Banco_KJC\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\continua19\Mis documentos\Heber\Clase-02-09-2009\A.Arriaga_Banco_KJC\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.Form1.resources
+C:\Documents and Settings\continua19\Mis documentos\Heber\Clase-02-09-2009\A.Arriaga_Banco_KJC\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.Properties.Resources.resources
+C:\Documents and Settings\continua19\Mis documentos\Heber\Clase-02-09-2009\A.Arriaga_Banco_KJC\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.csproj.GenerateResource.Cache
+C:\Documents and Settings\continua19\Mis documentos\Heber\Clase-02-09-2009\A.Arriaga_Banco_KJC\A.Arriaga_Banco_KJC\Banco_KJC\bin\Debug\Banco_KJC.exe
+C:\Documents and Settings\continua19\Mis documentos\Heber\Clase-02-09-2009\A.Arriaga_Banco_KJC\A.Arriaga_Banco_KJC\Banco_KJC\bin\Debug\Banco_KJC.pdb
+C:\Documents and Settings\continua19\Mis documentos\Heber\Clase-02-09-2009\A.Arriaga_Banco_KJC\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.exe
+C:\Documents and Settings\continua19\Mis documentos\Heber\Clase-02-09-2009\A.Arriaga_Banco_KJC\A.Arriaga_Banco_KJC\Banco_KJC\obj\Debug\Banco_KJC.pdb

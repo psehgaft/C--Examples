@@ -1,0 +1,5 @@
+bin\Debug\DemoListGenerico.exe
+bin\Debug\DemoListGenerico.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoListGenerico.exe
+obj\Debug\DemoListGenerico.pdb

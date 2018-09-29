@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DemoCompresion.exe
+bin\Debug\DemoCompresion.pdb
+obj\Debug\DemoCompresion.exe
+obj\Debug\DemoCompresion.pdb

@@ -1,0 +1,5 @@
+bin\Debug\DemoStackGenerico.exe
+bin\Debug\DemoStackGenerico.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoStackGenerico.exe
+obj\Debug\DemoStackGenerico.pdb

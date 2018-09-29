@@ -1,0 +1,8 @@
+bin\Debug\DemoColeccionesN.exe
+bin\Debug\DemoColeccionesN.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoColeccionesN.Form1.resources
+obj\Debug\DemoColeccionesN.Properties.Resources.resources
+obj\Debug\DemoColeccionesN.csproj.GenerateResource.Cache
+obj\Debug\DemoColeccionesN.exe
+obj\Debug\DemoColeccionesN.pdb

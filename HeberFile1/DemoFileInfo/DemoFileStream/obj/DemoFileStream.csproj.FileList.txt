@@ -1,0 +1,8 @@
+bin\Debug\DemoFileStream.exe
+bin\Debug\DemoFileStream.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoFileStream.Form1.resources
+obj\Debug\DemoFileStream.Properties.Resources.resources
+obj\Debug\DemoFileStream.csproj.GenerateResource.Cache
+obj\Debug\DemoFileStream.exe
+obj\Debug\DemoFileStream.pdb

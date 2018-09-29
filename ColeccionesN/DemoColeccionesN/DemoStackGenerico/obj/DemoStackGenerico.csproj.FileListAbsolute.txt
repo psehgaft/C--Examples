@@ -1,0 +1,5 @@
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoStackGenerico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoStackGenerico\bin\Debug\DemoStackGenerico.exe
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoStackGenerico\bin\Debug\DemoStackGenerico.pdb
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoStackGenerico\obj\Debug\DemoStackGenerico.exe
+C:\Documents and Settings\continua19\Mis documentos\Heber\ColeccionesN\DemoColeccionesN\DemoStackGenerico\obj\Debug\DemoStackGenerico.pdb

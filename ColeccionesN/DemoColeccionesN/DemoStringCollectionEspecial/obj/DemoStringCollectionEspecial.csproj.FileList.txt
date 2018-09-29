@@ -1,0 +1,5 @@
+bin\Debug\DemoStringCollectionEspecial.exe
+bin\Debug\DemoStringCollectionEspecial.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoStringCollectionEspecial.exe
+obj\Debug\DemoStringCollectionEspecial.pdb

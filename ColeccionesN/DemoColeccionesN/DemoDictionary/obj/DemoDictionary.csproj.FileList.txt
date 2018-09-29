@@ -1,0 +1,5 @@
+bin\Debug\DemoDictionary.exe
+bin\Debug\DemoDictionary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DemoDictionary.exe
+obj\Debug\DemoDictionary.pdb
